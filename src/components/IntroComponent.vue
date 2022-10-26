@@ -2,7 +2,7 @@
   <div id="intro" class="h-screen flex justify-center flex-col text-center">
     <div class="flex justify-center">
       <img
-        class="w-52 rounded-full shadow-2xl drop-shadow-2xl"
+        class="w-60 rounded-full shadow-2xl drop-shadow-2xl"
         v-bind:src="require('../assets/profile.jpg')"
       />
     </div>
