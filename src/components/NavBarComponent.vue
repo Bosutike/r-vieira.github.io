@@ -10,10 +10,10 @@
         class="w-full relative flex justify-between lg:w-auto px-4 lg:static lg:block lg:justify-start"
       >
         <a
-          class="font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase"
-          href="#pablo"
+          class="font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap"
+          href="#"
         >
-          r_vieira
+          R_Vieira
         </a>
         <button
           class="cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
@@ -32,6 +32,7 @@
             <a
               class="px-3 py-2 flex items-center uppercase font-bold leading-snug hover:opacity-75"
               href="#work-experience"
+              v-on:click="toggleNavbar()"
             >
               <span class="ml-2">Work Experience</span>
             </a>
@@ -40,6 +41,7 @@
             <a
               class="px-3 py-2 flex items-center uppercase font-bold leading-snug hover:opacity-75"
               href="#education"
+              v-on:click="toggleNavbar()"
             >
               <span class="ml-2">Education</span>
             </a>
@@ -48,6 +50,7 @@
             <a
               class="px-3 py-2 flex items-center uppercase font-bold leading-snug hover:opacity-75"
               href="#skills"
+              v-on:click="toggleNavbar()"
               ><span class="ml-2">Skills</span>
             </a>
           </li>
@@ -55,6 +58,7 @@
             <a
               class="px-3 py-2 flex items-center uppercase font-bold leading-snug hover:opacity-75"
               href="#projects"
+              v-on:click="toggleNavbar()"
             >
               <span class="ml-2">Projects</span>
             </a>
