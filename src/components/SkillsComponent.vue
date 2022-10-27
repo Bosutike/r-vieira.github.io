@@ -4,7 +4,7 @@
       <h2 class="text-center sm:pb-4">Skills</h2>
       <div class="flex justify-center flex-wrap">
         <div class="container max-w-lg px-4 py-4 border-r-2">
-          <h3 class="text-right pb-2 sm:pb-4">languages</h3>
+          <h3 class="text-right pb-2 sm:pb-4">Languages</h3>
           <div class="flex justify-between">
             <div class="flex flex-col space-y-4">
               <span
@@ -19,7 +19,7 @@
           </div>
         </div>
         <div class="container max-w-lg px-4 py-4 border-l-2">
-          <h3 class="pb-2 sm:pb-4">technologies</h3>
+          <h3 class="pb-2 sm:pb-4">Technologies</h3>
           <div class="flex justify-between">
             <div class="flex flex-col space-y-4">
               <div class="container flex justify-between">
@@ -52,8 +52,8 @@
                 <div
                   class="flex flex-wrap justify-end space-x-2 space-y-2 -mt-2"
                 >
+                  <span class="perk mt-2">MyQSL</span>
                   <span class="perk mt-2">PostgreSQL</span>
-                  <span class="perk">MyQSL</span>
                   <span class="perk">SQLite</span>
                 </div>
               </div>
@@ -67,6 +67,8 @@
                 >
                   <span class="perk mt-2">Docker</span>
                   <span class="perk">Figma</span>
+                  <span class="perk">GCP</span>
+                  <span class="perk">Nginx</span>
                 </div>
               </div>
             </div>

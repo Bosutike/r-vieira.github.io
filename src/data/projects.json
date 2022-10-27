@@ -3,7 +3,7 @@
         "id": 1,
         "link": "https://github.com/Bosutike/r-vieira.github.io",
         "title": "CV Website",
-        "paragraph": "System to help manage user generated images.",
+        "paragraph": "This CV website.",
         "perks": [
             "Vue.js",
             "Tailwind CSS"
@@ -13,7 +13,7 @@
         "id": 2,
         "link": "https://github.com/Bosutike/coding_challenge",
         "title": "Coding Challenge",
-        "paragraph": "System to help manage user generated images.",
+        "paragraph": "Image upload and evaluation application with back office.",
         "perks": [
             "Docker",
             "Node.js",

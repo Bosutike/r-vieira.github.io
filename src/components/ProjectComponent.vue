@@ -1,7 +1,7 @@
 <template>
-  <div class="drop-shadow-xl p-5 bg-white rounded-md m-1 w-90">
+  <div class="flex flex-col drop-shadow-xl p-5 bg-white rounded-md m-1 w-96">
     <div class="flex justify-between px-1">
-      <h4 class="mb-4">{{ title }}</h4>
+      <h4 class="mb-2">{{ title }}</h4>
       <span>
         <a :href="link" target="_blank">
           <i class="fa-brands fa-2x fa-github"></i>
@@ -9,7 +9,7 @@
       </span>
     </div>
     <p class="mb-2">{{ paragraph }}</p>
-    <div class="flex justify-end flex-wrap space-x-2 space-y-2 -mt-2">
+    <div class="flex justify-end flex-wrap space-x-2 space-y-2 mt-auto">
       <span
         :class="{ 'mt-2': key === 0 }"
         class="perk"

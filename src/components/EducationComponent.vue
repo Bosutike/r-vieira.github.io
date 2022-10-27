@@ -9,7 +9,7 @@
         <div class="timeline-info">
           <div class="master sm:mt-4 mx-1 sm:ml-10">
             <div class="arrow-left hidden sm:block"></div>
-            <h5>2020 - 2022</h5>
+            <h5>sept 2020 - 2022</h5>
             <h4>Master's in Computer Science</h4>
             <p>
               <i class="fa-solid fa-xl fa-location-dot mr-2"></i>Faculty of
@@ -18,7 +18,7 @@
           </div>
           <div class="holand mt-4 sm:mt-8 mx-1 sm:ml-10">
             <div class="arrow-left hidden sm:block"></div>
-            <h5>sep 2021 - may 2022</h5>
+            <h5>sept 2021 - may 2022</h5>
             <h4>Erasmus+ Internship / Developer</h4>
             <p>
               <i class="fa-solid fa-xl fa-location-dot mr-2"></i>Smart VR Lab,
@@ -27,7 +27,7 @@
           </div>
           <div class="bachelor mt-4 sm:mt-8 mx-1 sm:ml-10">
             <div class="arrow-left hidden sm:block"></div>
-            <h5>sep 2017 - july 2020</h5>
+            <h5>sept 2017 - july 2020</h5>
             <h4>Bachelor's in Computer Science</h4>
             <p>
               <i class="fa-solid fa-xl fa-location-dot mr-2"></i>University of

@@ -22,7 +22,7 @@
         <div class="timeline-info">
           <div class="everis mt-4 sm:mt-8 mx-1 sm:mr-10">
             <div class="arrow-right hidden sm:block"></div>
-            <h5>may 2021 - july 2021</h5>
+            <h5>july 2020 - sept 2020</h5>
             <h4>Summer Internship / Developer</h4>
             <p>
               <i class="fa-solid fa-xl fa-location-dot mr-2"></i>Everis, Remote
