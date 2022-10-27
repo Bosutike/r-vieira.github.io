@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "link": "https://github.com/Bosutike/bosutike.github.io",
+        "title": "CV Website",
+        "paragraph": "This CV website.",
+        "perks": [
+            "Vue.js",
+            "Tailwind CSS"
+        ]
+    },
+    {
+        "id": 2,
+        "link": "https://github.com/Bosutike/coding_challenge",
+        "title": "Coding Challenge",
+        "paragraph": "Image upload and evaluation application with back office.",
+        "perks": [
+            "Docker",
+            "Node.js",
+            "Vue.js",
+            "PostgreSQL"
+        ]
+    }
+]

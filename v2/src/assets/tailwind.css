@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-grey {
+  background-color: #cacac2;
+}
+
+* {
+  border-color: #414141;
+  color: #414141;
+  font-size: 16px;
+}
+
+@media screen and (max-width: 640px) {
+  * {
+    font-size: 15px;
+  }
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background: #f0f1f0;
+}
+
+nav {
+  z-index: 2;
+  background-color: #f0f1f0;
+}
+
+h1 {
+  font-size: 2.8em;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
+h5 {
+  font-size: 1.2em;
+}
+
+p {
+  font-size: 1em;
+}
+
+.perk {
+  color: white;
+  background-color: #414141;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  border-radius: 10px;
+}
+
+.perk-exp {
+  color: white;
+  background-color: #414141;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: rgb(63, 63, 63);
+}

@@ -15,7 +15,7 @@
 }
 
 body {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   background: #fcfceb;
 }
 
@@ -25,7 +25,7 @@ nav {
 }
 
 h1 {
-  font-size: 5em;
+  font-size: 4em;
 }
 
 h2 {
@@ -41,7 +41,7 @@ h4 {
 }
 
 h5 {
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 p {
