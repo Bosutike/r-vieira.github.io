@@ -6,7 +6,7 @@
         v-bind:src="require('../assets/profile.jpg')"
       />
     </div>
-    <h1 class="title text-center">Renato Vieira</h1>
+    <h1 class="title text-center leading-none py-5">Renato Vieira</h1>
 
     <div class="flex justify-center">
       <div class="flex justify-between w-40">
