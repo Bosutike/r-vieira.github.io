@@ -1,12 +1,12 @@
 <template>
   <div id="work-experience" class="flex justify-center pt-20 pb-10">
     <div class="experience">
-      <h2 class="text-right">Work Experience</h2>
+      <h2 class="text-center sm:text-right">Work Experience</h2>
       <div class="relative sm:mt-10 md:ml-40 lg:ml-60 xl:ml-80">
         <div class="timeline hidden sm:block">
           <div class="timeline-arrow-up"></div>
         </div>
-        <div class="timeline-info">
+        <div class="timeline-info text-left sm:text-right">
           <div class="epix mt-4 mx-1 sm:mr-10">
             <div class="arrow-right hidden sm:block"></div>
             <h5>may 2021 - july 2021</h5>
@@ -19,7 +19,7 @@
             <span class="perk-exp ml-2">Node</span>
           </div>
         </div>
-        <div class="timeline-info">
+        <div class="timeline-info text-left sm:text-right">
           <div class="everis mt-4 sm:mt-8 mx-1 sm:mr-10">
             <div class="arrow-right hidden sm:block"></div>
             <h5>july 2020 - sept 2020</h5>
@@ -53,7 +53,6 @@ export default {
 
 .timeline-info {
   padding-top: 0.2em;
-  text-align: right;
 }
 
 .timeline-arrow-up {
