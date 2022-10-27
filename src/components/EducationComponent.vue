@@ -59,7 +59,7 @@ export default {
 .timeline {
   position: absolute;
   width: 4px;
-  height: 800px;
+  height: 700px;
   background-color: #414141;
 }
 
