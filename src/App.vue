@@ -4,6 +4,7 @@
   <ExperienceComponent />
   <EducationComponent />
   <SkillsComponent />
+  <ProjectsComponent />
 </template>
 
 <script>
@@ -12,6 +13,7 @@ import ExperienceComponent from "./components/ExperienceComponent.vue";
 import EducationComponent from "./components/EducationComponent.vue";
 import NavBarComponent from "./components/NavBarComponent.vue";
 import SkillsComponent from "./components/SkillsComponent.vue";
+import ProjectsComponent from "./components/ProjectsComponent.vue";
 
 export default {
   name: "App",
@@ -21,6 +23,7 @@ export default {
     EducationComponent,
     NavBarComponent,
     SkillsComponent,
+    ProjectsComponent,
   },
 };
 </script>

@@ -31,8 +31,9 @@
           <li class="nav-item">
             <a
               class="px-3 py-2 flex items-center uppercase font-bold leading-snug hover:opacity-75"
-              href="#intro"
-              ><span class="ml-2">Skills</span>
+              href="#work-experience"
+            >
+              <span class="ml-2">Work Experience</span>
             </a>
           </li>
           <li class="nav-item">
@@ -46,7 +47,14 @@
           <li class="nav-item">
             <a
               class="px-3 py-2 flex items-center uppercase font-bold leading-snug hover:opacity-75"
-              href="#pablo"
+              href="#skills"
+              ><span class="ml-2">Skills</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a
+              class="px-3 py-2 flex items-center uppercase font-bold leading-snug hover:opacity-75"
+              href="#projects"
             >
               <span class="ml-2">Projects</span>
             </a>

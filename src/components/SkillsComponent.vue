@@ -1,10 +1,10 @@
 <template>
-  <div class="flex justify-center w-full pb-20">
+  <div id="skills" class="flex justify-center w-full pb-20">
     <div class="container">
-      <h2 class="text-center pb-4">Skills</h2>
+      <h2 class="text-center sm:pb-4">Skills</h2>
       <div class="flex justify-center flex-wrap">
         <div class="container max-w-lg px-4 py-4 border-r-2">
-          <h3 class="text-right pb-4">languages</h3>
+          <h3 class="text-right pb-2 sm:pb-4">languages</h3>
           <div class="flex justify-between">
             <div class="flex flex-col space-y-4">
               <span
@@ -19,33 +19,40 @@
           </div>
         </div>
         <div class="container max-w-lg px-4 py-4 border-l-2">
-          <h3 class="pb-4">tecnologies</h3>
+          <h3 class="pb-2 sm:pb-4">technologies</h3>
           <div class="flex justify-between">
             <div class="flex flex-col space-y-4">
               <div class="container flex justify-between">
-                <span><i class="fa-solid fa-computer mr-2"></i></span>
+                <span><i class="fa-solid fa-terminal mr-2"></i></span>
                 <span class="inline-block align-middle">Programming </span>
 
-                <div class="flex flex-wrap justify-end space-x-2">
-                  <span class="perk">Android Studio</span>
+                <div
+                  class="flex flex-wrap justify-end space-x-2 space-y-2 -mt-2"
+                >
+                  <span class="perk mt-2">Android Studio</span>
                   <span class="perk">Elixir</span>
                   <span class="perk">Java</span>
                   <span class="perk">JavaScript</span>
-                  <span class="perk mt-1">Python</span>
+                  <span class="perk">Python</span>
                 </div>
               </div>
               <div class="container flex justify-between">
                 <span><i class="fa-solid fa-window-maximize mr-2"></i>Web</span>
-                <div class="flex flex-wrap justify-end space-x-2">
-                  <span class="perk">CSS</span>
+                <div
+                  class="flex flex-wrap justify-end space-x-2 space-y-2 -mt-2"
+                >
+                  <span class="perk mt-2">CSS</span>
                   <span class="perk">HTML</span>
-                  <span class="perk">VUE</span>
+                  <span class="perk">Vue.js</span>
+                  <span class="perk">Tailwind CSS</span>
                 </div>
               </div>
               <div class="container flex justify-between">
                 <span><i class="fa-solid fa-database mr-2"></i>DB</span>
-                <div class="flex flex-wrap justify-end space-x-2">
-                  <span class="perk">PostgreSQL</span>
+                <div
+                  class="flex flex-wrap justify-end space-x-2 space-y-2 -mt-2"
+                >
+                  <span class="perk mt-2">PostgreSQL</span>
                   <span class="perk">MyQSL</span>
                   <span class="perk">SQLite</span>
                 </div>
@@ -55,8 +62,10 @@
                   ><i class="fa-solid fa-screwdriver-wrench mr-2"></i
                   >Other</span
                 >
-                <div class="flex flex-wrap justify-end space-x-2">
-                  <span class="perk">Docker</span>
+                <div
+                  class="flex flex-wrap justify-end space-x-2 space-y-2 -mt-2"
+                >
+                  <span class="perk mt-2">Docker</span>
                   <span class="perk">Figma</span>
                 </div>
               </div>

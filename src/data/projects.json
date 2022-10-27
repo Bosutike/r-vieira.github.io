@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "link": "https://github.com/Bosutike/r-vieira.github.io",
+        "title": "CV Website",
+        "paragraph": "System to help manage user generated images.",
+        "perks": [
+            "Vue.js",
+            "Tailwind CSS"
+        ]
+    },
+    {
+        "id": 2,
+        "link": "https://github.com/Bosutike/coding_challenge",
+        "title": "Coding Challenge",
+        "paragraph": "System to help manage user generated images.",
+        "perks": [
+            "Docker",
+            "Node.js",
+            "Vue.js",
+            "PostgreSQL"
+        ]
+    }
+]

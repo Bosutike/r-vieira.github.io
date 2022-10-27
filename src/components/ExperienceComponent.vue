@@ -1,28 +1,28 @@
 <template>
-  <div class="flex justify-center pt-30 pb-20">
+  <div id="work-experience" class="flex justify-center pt-20 pb-10">
     <div class="experience">
       <h2 class="text-right">Work Experience</h2>
-      <div class="relative mt-10 md:ml-40 lg:ml-60 xl:ml-80">
-        <div class="timeline">
+      <div class="relative sm:mt-10 md:ml-40 lg:ml-60 xl:ml-80">
+        <div class="timeline hidden sm:block">
           <div class="timeline-arrow-up"></div>
         </div>
         <div class="timeline-info">
-          <div class="epix container">
-            <div class="arrow-right"></div>
-            <h4>may 2021 - july 2021</h4>
+          <div class="epix mt-4 mx-1 sm:mr-10">
+            <div class="arrow-right hidden sm:block"></div>
+            <h5>may 2021 - july 2021</h5>
             <h4>Full Stack Developer</h4>
             <p>
               <i class="fa-solid fa-xl fa-location-dot mr-2"></i>Epix
               Industries, Remote
             </p>
-            <span class="perk-exp">Vue</span>
+            <span class="perk-exp">Vue.js</span>
             <span class="perk-exp ml-2">Node</span>
           </div>
         </div>
         <div class="timeline-info">
-          <div class="epix container">
-            <div class="arrow-right"></div>
-            <h4>may 2021 - july 2021</h4>
+          <div class="everis mt-4 sm:mt-8 mx-1 sm:mr-10">
+            <div class="arrow-right hidden sm:block"></div>
+            <h5>may 2021 - july 2021</h5>
             <h4>Summer Internship / Developer</h4>
             <p>
               <i class="fa-solid fa-xl fa-location-dot mr-2"></i>Everis, Remote
@@ -43,9 +43,6 @@ export default {
 </script>
 
 <style scoped>
-.experience {
-  height: 620px;
-}
 .timeline {
   position: absolute;
   width: 4px;
@@ -55,8 +52,7 @@ export default {
 }
 
 .timeline-info {
-  padding-top: 2em;
-  margin-right: 40px;
+  padding-top: 0.2em;
   text-align: right;
 }
 
@@ -72,6 +68,13 @@ export default {
 }
 
 .epix {
+  position: relative;
+  padding: 1.5em;
+  background-color: #bad1c2;
+  border-radius: 1.5em;
+}
+
+.everis {
   position: relative;
   padding: 1.5em;
   background-color: #bad1c2;
