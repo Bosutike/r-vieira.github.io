@@ -1,5 +1,5 @@
 <template>
-  <div id="education" class="flex justify-center py-20 bg-grey">
+  <div id="education" class="flex justify-center sm:py-20 bg-grey">
     <div class="education">
       <h2 class="text-center sm:text-left">Education</h2>
       <div class="sm:mt-10 md:mr-40 lg:mr-60 xl:mr-80">
