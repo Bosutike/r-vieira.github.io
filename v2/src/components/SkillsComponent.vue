@@ -29,8 +29,7 @@
                 <div
                   class="flex flex-wrap justify-end space-x-2 space-y-2 -mt-2"
                 >
-                  <span class="perk mt-2">Android Studio</span>
-                  <span class="perk">Elixir</span>
+                  <span class="perk mt-2 ml-2">Elixir</span>
                   <span class="perk">Java</span>
                   <span class="perk">JavaScript</span>
                   <span class="perk">Python</span>
