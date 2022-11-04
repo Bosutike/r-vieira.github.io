@@ -27,7 +27,7 @@
             <p>
               <i class="fa-solid fa-xl fa-location-dot mr-2"></i>Everis, Remote
             </p>
-            <span class="perk-exp">.Net</span>
+            <span class="perk-exp">.NET</span>
             <span class="perk-exp ml-2">Azure</span>
           </div>
         </div>

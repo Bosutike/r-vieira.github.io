@@ -31,8 +31,9 @@
                 >
                   <span class="perk mt-2 ml-2">Elixir</span>
                   <span class="perk">Java</span>
-                  <span class="perk">JavaScript</span>
+                  <span class="perk">Node.js</span>
                   <span class="perk">Python</span>
+                  <span class="perk">.NET</span>
                 </div>
               </div>
               <div class="container flex justify-between">
