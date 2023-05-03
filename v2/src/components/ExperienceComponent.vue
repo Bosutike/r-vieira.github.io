@@ -9,6 +9,20 @@
         <div class="timeline-info text-left sm:text-right">
           <div class="epix mt-4 mx-1 sm:mr-10">
             <div class="arrow-right hidden sm:block"></div>
+            <h5>nov 2022 - current</h5>
+            <h4>Full Stack Developer</h4>
+            <p>
+              <i class="fa-solid fa-xl fa-location-dot mr-2"></i>
+              Collab, Lisbon
+            </p>
+            <span class="perk-exp">.NET</span>
+            <span class="perk-exp ml-2">Azure Functions</span>
+            <span class="perk-exp ml-2">SQL</span>
+          </div>
+        </div>
+        <div class="timeline-info text-left sm:text-right">
+          <div class="epix mt-4 mx-1 sm:mr-10">
+            <div class="arrow-right hidden sm:block"></div>
             <h5>may 2021 - july 2021</h5>
             <h4>Full Stack Developer</h4>
             <p>
@@ -46,7 +60,7 @@ export default {
 .timeline {
   position: absolute;
   width: 4px;
-  height: 400px;
+  height: 580px;
   right: 0;
   background-color: #414141;
 }

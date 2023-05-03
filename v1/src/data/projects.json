@@ -20,5 +20,15 @@
             "Vue.js",
             "PostgreSQL"
         ]
+    },
+    {
+        "id": 3,
+        "link": "https://github.com/Bosutike/webpage_updated",
+        "title": "Webpage_updated",
+        "paragraph": "Python script that notifies by email when an website is updated.",
+        "perks": [
+            "Python",
+            "JavaScript"
+        ]
     }
 ]
