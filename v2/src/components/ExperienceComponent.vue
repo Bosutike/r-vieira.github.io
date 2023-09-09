@@ -30,7 +30,7 @@
               Industries, Remote
             </p>
             <span class="perk-exp">Vue.js</span>
-            <span class="perk-exp ml-2">Node.js</span>
+            <span class="perk-exp ml-2">JavaScript</span>
           </div>
         </div>
         <div class="timeline-info text-left sm:text-right">

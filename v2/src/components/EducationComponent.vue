@@ -7,15 +7,6 @@
           <div class="timeline-arrow-up"></div>
         </div>
         <div class="timeline-info">
-          <div class="master sm:mt-4 mx-1 sm:ml-10">
-            <div class="arrow-left hidden sm:block"></div>
-            <h5>sept 2020 - 2022</h5>
-            <h4>Master's in Computer Science</h4>
-            <p>
-              <i class="fa-solid fa-xl fa-location-dot mr-2"></i>Faculty of
-              Sciences of the University of Lisbon, Portugal
-            </p>
-          </div>
           <div class="holand mt-4 sm:mt-8 mx-1 sm:ml-10">
             <div class="arrow-left hidden sm:block"></div>
             <h5>sept 2021 - may 2022</h5>
@@ -25,13 +16,13 @@
               Utrecht, Netherlands
             </p>
           </div>
-          <div class="bachelor mt-4 sm:mt-8 mx-1 sm:ml-10">
+          <div class="master sm:mt-4 mx-1 sm:ml-10">
             <div class="arrow-left hidden sm:block"></div>
-            <h5>sept 2017 - july 2020</h5>
-            <h4>Bachelor's in Computer Science</h4>
+            <h5>sept 2020 - 2022</h5>
+            <h4>Master's in Computer Science</h4>
             <p>
-              <i class="fa-solid fa-xl fa-location-dot mr-2"></i>University of
-              Beira Interior, Covilhã, Portugal
+              <i class="fa-solid fa-xl fa-location-dot mr-2"></i>Faculty of
+              Sciences of the University of Lisbon, Portugal
             </p>
           </div>
           <div class="krakow mt-4 sm:mt-8 mx-1 sm:ml-10">
@@ -41,6 +32,15 @@
             <p>
               <i class="fa-solid fa-xl fa-location-dot mr-2"></i>Politechnika
               Krakowska, Kraków, Poland
+            </p>
+          </div>
+          <div class="bachelor mt-4 sm:mt-8 mx-1 sm:ml-10">
+            <div class="arrow-left hidden sm:block"></div>
+            <h5>sept 2017 - july 2020</h5>
+            <h4>Bachelor's in Computer Science</h4>
+            <p>
+              <i class="fa-solid fa-xl fa-location-dot mr-2"></i>University of
+              Beira Interior, Covilhã, Portugal
             </p>
           </div>
         </div>

@@ -4,31 +4,27 @@
         "link": "https://github.com/Bosutike/bosutike.github.io",
         "title": "CV Website",
         "paragraph": "This CV website.",
-        "perks": [
-            "Vue.js",
-            "Tailwind CSS"
-        ]
+        "perks": ["Vue.js", "Tailwind CSS"]
     },
     {
         "id": 2,
-        "link": "https://github.com/Bosutike/coding_challenge",
-        "title": "Coding Challenge",
-        "paragraph": "Image upload and evaluation application with back office.",
-        "perks": [
-            "Docker",
-            "Node.js",
-            "Vue.js",
-            "PostgreSQL"
-        ]
+        "link": "https://github.com/Bosutike/climbing_front_react",
+        "title": "Climbing Spots in Portugal",
+        "paragraph": "Website with some climbing spots in Portugal with the main objective of learning React.",
+        "perks": ["Docker", "TypeScript", "Express", "React"]
     },
     {
         "id": 3,
+        "link": "https://github.com/Bosutike/coding_challenge",
+        "title": "Coding Challenge",
+        "paragraph": "Image upload and evaluation application with back office.",
+        "perks": ["Docker", "JavaScript", "Vue.js", "PostgreSQL"]
+    },
+    {
+        "id": 4,
         "link": "https://github.com/Bosutike/webpage_updated",
-        "title": "Webpage_updated",
+        "title": "Webpage Updated",
         "paragraph": "Python script that notifies by email when an website is updated.",
-        "perks": [
-            "Python",
-            "JavaScript"
-        ]
+        "perks": ["Python", "JavaScript"]
     }
 ]
