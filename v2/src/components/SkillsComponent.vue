@@ -23,25 +23,25 @@
               <div class="container flex justify-between">
                 <span><i class="fa-solid fa-terminal mr-2"></i></span>
                 <span class="inline-block align-middle">Programming </span>
-
                 <div class="flex flex-wrap justify-end space-x-2 space-y-2 -mt-2">
-                  <span class="perk mt-2 ml-2">.NET</span>
-                  <span class="perk">Android</span>
-                  <span class="perk">Elixir</span>
+                  <span class="perk mt-2 ml-2">C#</span>
+                  <span class="perk">ASP.NET 4.7</span>
+                  <span class="perk">ASP.NET Core 8</span>
+                  <span class="perk">Entity Framework</span>
                   <span class="perk">Java</span>
                   <span class="perk">JavaScript</span>
-                  <span class="perk">Python</span>
-                  <span class="perk">TypeScript</span>
+                  <span class="perk">Node.JS</span>
+                  <span class="perk">Vue.js</span>
                 </div>
               </div>
               <div class="container flex justify-between">
                 <span><i class="fa-solid fa-window-maximize mr-2"></i>Web</span>
                 <div class="flex flex-wrap justify-end space-x-2 space-y-2 -mt-2">
-                  <span class="perk mt-2">CSS</span>
-                  <span class="perk">HTML</span>
+                  <span class="perk mt-2">HTML5</span>
+                  <span class="perk">CSS</span>
+                  <span class="perk">Tailwind CSS</span>
                   <span class="perk">React</span>
                   <span class="perk">Vue.js</span>
-                  <span class="perk">Tailwind CSS</span>
                 </div>
               </div>
               <div class="container flex justify-between">
@@ -49,15 +49,14 @@
                 <div class="flex flex-wrap justify-end space-x-2 space-y-2 -mt-2">
                   <span class="perk mt-2">SQL</span>
                   <span class="perk mt-2">PostgreSQL</span>
-                  <span class="perk">SQLite</span>
                 </div>
               </div>
               <div class="container flex justify-between">
                 <span><i class="fa-solid fa-screwdriver-wrench mr-2"></i>Other</span>
                 <div class="flex flex-wrap justify-end space-x-2 space-y-2 -mt-2">
-                  <span class="perk mt-2">Azure Functions</span>
+                  <span class="perk mt-2">Azure</span>
                   <span class="perk">Docker</span>
-                  <span class="perk">GCP</span>
+                  <span class="perk">Git</span>
                   <span class="perk">Nginx</span>
                 </div>
               </div>

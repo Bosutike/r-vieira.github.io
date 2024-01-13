@@ -9,40 +9,56 @@
         <div class="timeline-info text-left sm:text-right">
           <div class="epix mt-4 mx-1 sm:mr-10">
             <div class="arrow-right hidden sm:block"></div>
-            <h5>nov 2022 - current</h5>
+            <p>oct 2023 - current</p>
             <h4>Full Stack Developer</h4>
-            <p>
-              <i class="fa-solid fa-xl fa-location-dot mr-2"></i>
-              Collab, Lisbon
-            </p>
-            <span class="perk-exp">.NET</span>
-            <span class="perk-exp ml-2">Azure Functions</span>
-            <span class="perk-exp ml-2">SQL</span>
+            <h5>
+              <i class="fa-solid fa-xl fa-location-dot mr-1"></i>
+              Freelance, Remote
+            </h5>
           </div>
         </div>
         <div class="timeline-info text-left sm:text-right">
           <div class="epix mt-4 mx-1 sm:mr-10">
             <div class="arrow-right hidden sm:block"></div>
-            <h5>may 2021 - july 2021</h5>
+            <p>nov 2022 - sept 2023</p>
             <h4>Full Stack Developer</h4>
-            <p>
-              <i class="fa-solid fa-xl fa-location-dot mr-2"></i>Epix
-              Industries, Remote
-            </p>
-            <span class="perk-exp">Vue.js</span>
-            <span class="perk-exp ml-2">JavaScript</span>
+            <h5>
+              <i class="fa-solid fa-xl fa-location-dot mr-1"></i>
+              Collab, Lisbon
+            </h5>
+          </div>
+        </div>
+        <div class="timeline-info text-left sm:text-right">
+          <div class="epix mt-4 mx-1 sm:mr-10">
+            <div class="arrow-right hidden sm:block"></div>
+            <p>sept 2021 – may 2022</p>
+            <h4>Full Stack Developer</h4>
+            <h5>
+              <i class="fa-solid fa-xl fa-location-dot mr-1"></i>
+              Smart VR Lab, Remote
+            </h5>
+          </div>
+        </div>
+        <div class="timeline-info text-left sm:text-right">
+          <div class="epix mt-4 mx-1 sm:mr-10">
+            <div class="arrow-right hidden sm:block"></div>
+            <p>may 2021 - july 2021</p>
+            <h4>Full Stack Developer</h4>
+            <h5>
+              <i class="fa-solid fa-xl fa-location-dot mr-1"></i>
+              Epix Industries, Remote
+            </h5>
           </div>
         </div>
         <div class="timeline-info text-left sm:text-right">
           <div class="everis mt-4 sm:mt-8 mx-1 sm:mr-10">
             <div class="arrow-right hidden sm:block"></div>
-            <h5>july 2020 - sept 2020</h5>
+            <p>july 2020 - sept 2020</p>
             <h4>Summer Internship / Developer</h4>
-            <p>
-              <i class="fa-solid fa-xl fa-location-dot mr-2"></i>Everis, Remote
-            </p>
-            <span class="perk-exp">.NET</span>
-            <span class="perk-exp ml-2">Azure</span>
+            <h5>
+              <i class="fa-solid fa-xl fa-location-dot mr-1"></i>
+              Everis, Remote
+            </h5>
           </div>
         </div>
       </div>
@@ -60,7 +76,7 @@ export default {
 .timeline {
   position: absolute;
   width: 4px;
-  height: 580px;
+  height: 750px;
   right: 0;
   background-color: #414141;
 }
